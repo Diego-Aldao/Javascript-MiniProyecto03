@@ -2,4 +2,4 @@
 
 #MiniProyecto03
 
-Seleccionar un color dentro de un array y convertirlo en el background
+Acceder a las propiedades de un objeto que esta inscrustado dentro de un array para remplazar la frase, el autor y la imagen al hacer click en un boton
